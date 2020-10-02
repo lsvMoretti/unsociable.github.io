@@ -9,6 +9,8 @@ Links
 --------
 [Blog](https://lsvmoretti.github.io/unsociable.github.io/blog "Blog")
 
+[Projects](https://lsvmoretti.github.io/unsociable.github.io/projects "Projects")
+
 [Discord](https://discord.gg/3SEkAMY)
 
 [Twitch](https://www.twitch.tv/unsociablestreamer)
