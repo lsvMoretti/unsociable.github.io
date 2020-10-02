@@ -17,8 +17,8 @@ title: Unsociable Streamer
 email: me@unsociable.me
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my site! This is something that I am starting out doing! Feedback is recommended.
-baseurl: "/unsociable.github.io" # the subpath of your site, e.g. /blog
-url: "https://lsvmoretti.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://unsociable.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
